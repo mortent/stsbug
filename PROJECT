@@ -1,0 +1,7 @@
+domain: mortent.no
+repo: github.com/mortent/stsbug
+resources:
+- group: demo
+  kind: StsBug
+  version: v1
+version: "2"

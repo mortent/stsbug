@@ -1,0 +1,7 @@
+apiVersion: demo.mortent.no/v1
+kind: StsBug
+metadata:
+  name: stsbug-sample
+spec:
+  # Add fields here
+  foo: bar
